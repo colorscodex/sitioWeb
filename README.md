@@ -2,4 +2,4 @@
 
 
 Página web creada con la tecnología MobiRise
-### [COLORSCODEX](https://colorscodex.github.io/sitioWeb/)
+### [COLORSCODEX](https://colorscodex.github.io/sitioWeb/inicio.html)
