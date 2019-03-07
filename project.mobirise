@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "www.colorscodex.com",
-    "currentPage": "inicio.html",
+    "currentPage": "cookies.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -46,7 +46,7 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "cookiesAlert": "Nuestro  sitio web utiliza cookies para darte la mejor expeiriencia. Lee nuestra <a href='privacy.html'>Política de cookies</a>.",
+    "cookiesAlert": "Nuestro  sitio web utiliza cookies para darte la mejor expeiriencia. Lee nuestra <a href='cookies.html'>Política de cookies</a>.",
     "gdpr": "",
     "сanonical-url": ""
   },
