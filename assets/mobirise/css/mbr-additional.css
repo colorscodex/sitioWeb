@@ -4321,9 +4321,9 @@ body {
   color: #232323;
 }
 .cid-rjMqleZZZX {
-  padding-top: 30px;
-  padding-bottom: 45px;
-  background-color: #f9f9f9;
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #073b4c;
 }
 .cid-rjMqleZZZX h4 {
   font-weight: 500;
@@ -4336,7 +4336,7 @@ body {
 }
 .cid-rjMqleZZZX .card-box {
   background-color: #465052;
-  padding: 2rem;
+  background-color: transparent;
 }
 .cid-rjMqleZZZX .mbr-section-btn {
   padding-top: 1rem;
@@ -4344,10 +4344,6 @@ body {
 .cid-rjMqleZZZX .card-wrapper {
   position: relative;
   box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-rjMqleZZZX .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
 .cid-rjMqleZZZX .wrapper {
