@@ -3057,7 +3057,7 @@ body {
   color: #767676;
 }
 .cid-rhG94bQHd2 {
-  padding-top: 30px;
+  padding-top: 45px;
   padding-bottom: 45px;
   background-color: #333333;
 }
@@ -3979,8 +3979,8 @@ body {
 }
 .cid-rhBFfr1U5P {
   background: #b1a374;
-  padding-top: 105px;
-  padding-bottom: 45px;
+  padding-top: 120px;
+  padding-bottom: 60px;
   background: linear-gradient(45deg, #b1a374, #4f4943);
 }
 .cid-rhBFfr1U5P .image-block {
@@ -4201,55 +4201,6 @@ body {
 .cid-rhC8XwBdPG .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
-}
-.cid-rkp1Pkzr2N {
-  padding-top: 105px;
-  padding-bottom: 105px;
-  background-color: #efefef;
-}
-.cid-rkp1Pkzr2N .carousel-item {
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-rkp1Pkzr2N .carousel-item.active,
-.cid-rkp1Pkzr2N .carousel-item-next,
-.cid-rkp1Pkzr2N .carousel-item-prev {
-  display: flex;
-}
-.cid-rkp1Pkzr2N .carousel-controls a {
-  transition: opacity .5s;
-  font-size: 2rem;
-}
-.cid-rkp1Pkzr2N .carousel-controls a span {
-  position: absolute;
-  top: 180px;
-  padding: 10px;
-  border-radius: 50%;
-  color: #585858;
-  background: #c8c6c6;
-  opacity: .5;
-}
-.cid-rkp1Pkzr2N .carousel-controls a:hover span {
-  opacity: 1;
-}
-.cid-rkp1Pkzr2N .user_image {
-  width: 200px;
-  height: 200px;
-  margin-bottom: 1.6rem;
-  overflow: hidden;
-  border-radius: 50%;
-  margin: 0 auto 2rem auto;
-}
-.cid-rkp1Pkzr2N .user_image img {
-  width: 100%;
-  min-width: 100%;
-  min-height: 100%;
-}
-@media (max-width: 230px) {
-  .cid-rkp1Pkzr2N .user_image {
-    width: 100%;
-    height: auto;
-  }
 }
 .cid-rj6FkGNGOV {
   padding-top: 120px;
@@ -4507,19 +4458,19 @@ body {
     padding-left: 4rem;
   }
 }
-.cid-rjMtOKs1I0 {
+.cid-rkqLExqGD8 {
   padding-top: 60px;
   padding-bottom: 45px;
   background: linear-gradient(0deg, #3a3232, #ffffff);
 }
-.cid-rjMtOKs1I0 .mbr-iconfont-social {
+.cid-rkqLExqGD8 .mbr-iconfont-social {
   font-size: 32px;
   color: #073b4c;
 }
-.cid-rjMtOKs1I0 .social-list a:focus {
+.cid-rkqLExqGD8 .social-list a:focus {
   text-decoration: none;
 }
-.cid-rjMtOKs1I0 H2 {
+.cid-rkqLExqGD8 H2 {
   text-align: left;
 }
 .cid-rjMfHwaGHn {
