@@ -3848,7 +3848,10 @@
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
             ".mbr-section-subtitle": {
-              "color": "#767676"
+              "color": "#3a3232"
+            },
+            "H2": {
+              "color": "#3a3232"
             }
           },
           "_name": "content4",
@@ -3886,10 +3889,10 @@
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
             ".mbr-section-subtitle": {
-              "color": "#767676"
+              "color": "#3a3232"
             },
             "H2": {
-              "color": "#301922"
+              "color": "#3a3232"
             }
           },
           "_name": "content4",
