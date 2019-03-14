@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "www.colorscodex.com",
-    "currentPage": "especias-pimienta-negr.html",
+    "currentPage": "inicio.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4240,6 +4240,9 @@
             "background-color": "@bgColor",
             ".mbr-text, blockquote": {
               "color": "#767676"
+            },
+            ".mbr-text P": {
+              "color": "#363333"
             }
           },
           "_name": "content1",
@@ -4312,6 +4315,9 @@
             "background-color": "@bgColor",
             ".mbr-text": {
               "color": "#767676"
+            },
+            ".mbr-text P": {
+              "color": "#3a3232"
             }
           },
           "_name": "content3",
@@ -10681,6 +10687,9 @@
             "background-color": "@bgColor",
             ".mbr-text, blockquote": {
               "color": "#767676"
+            },
+            ".mbr-text": {
+              "color": "#3a3232"
             }
           },
           "_name": "content1",
@@ -10731,7 +10740,7 @@
               }
             },
             ".mbr-text": {
-              "color": "#767676"
+              "color": "#3a3232"
             }
           },
           "_name": "content6",
@@ -10751,6 +10760,9 @@
             "background-color": "@bgColor",
             ".mbr-text": {
               "color": "#767676"
+            },
+            ".mbr-text P": {
+              "color": "#3a3232"
             }
           },
           "_name": "content3",
@@ -10822,6 +10834,9 @@
             },
             ".mbr-text DIV": {
               "color": "#3a3232"
+            },
+            ".mbr-text": {
+              "color": "#140e09"
             }
           },
           "_name": "content1",
