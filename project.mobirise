@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "www.colorscodex.com",
-    "currentPage": "inicio.html",
+    "currentPage": "piment´.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -645,7 +645,7 @@
       "settings": {
         "meta_descr": "Una breve historia de cómo surgió el Proyecto de COLORSCODEX, una cocina Vegan con Sabor Mediterráneo.",
         "title": "acerca de COLORSCODEX",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -1833,7 +1833,7 @@
       "settings": {
         "meta_descr": "Breve descripción de que es lo que me llevó a construir COLORSCODEX.\n\nUna breve reseña de mi CV",
         "title": "acerca de la autora",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -4446,7 +4446,7 @@
       "settings": {
         "meta_descr": "Una breve historia de cómo surgió el Proyecto de COLORSCODEX, una cocina Vegan con Sabor Mediterráneo.",
         "title": "acerca de COLORSCODEX, pie de página",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -5634,7 +5634,7 @@
       "settings": {
         "meta_descr": "Receta de acelgas (previamente cocidas y añadidas al salteado de los champiñones una vez que estos estén hechos) con champiñones salteados con cebolla en aceite de oliva y un toque de pi,ienta negra",
         "title": "Pimienta negra, pie de página",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -6722,7 +6722,7 @@
       "settings": {
         "meta_descr": "Receta de acelgas (previamente cocidas y añadidas al salteado de los champiñones una vez que estos estén hechos) con champiñones salteados con cebolla en aceite de oliva y un toque de pi,ienta negra",
         "title": "Pimienta negra, intermedio",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -8414,7 +8414,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Pimentón, intermedio",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -11521,7 +11521,7 @@
     "piment´.html": {
       "settings": {
         "meta_descr": "",
-        "title": "Pimentón, pie de página",
+        "title": "pimentón pie de página",
         "order": 10
       },
       "components": [
@@ -11950,6 +11950,9 @@
             "background-color": "@bgColor",
             ".mbr-text, blockquote": {
               "color": "#767676"
+            },
+            ".mbr-text P": {
+              "color": "#363333"
             }
           },
           "_name": "content1",
@@ -12022,6 +12025,9 @@
             "background-color": "@bgColor",
             ".mbr-text": {
               "color": "#767676"
+            },
+            ".mbr-text P": {
+              "color": "#3a3232"
             }
           },
           "_name": "content3",
@@ -12112,7 +12118,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary-outline\" href=\"especia.html\" data-app-placeholder=\"Type Text\"><span class=\"mbrib-arrow-next mbr-iconfont mbr-iconfont-btn\"></span>volver</a> <a class=\"btn btn-primary\" href=\"especias-pimienta-neg.html\" data-app-placeholder=\"Type Text\"><span class=\"mbrib-arrow-next mbr-iconfont mbr-iconfont-btn\"></span>pimienta negra</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary-outline\" href=\"especia.html\" data-app-placeholder=\"Type Text\"><span class=\"mbrib-arrow-next mbr-iconfont mbr-iconfont-btn\"></span>inicio</a> <a class=\"btn btn-primary\" href=\"especias-pimienta-neg.html\" data-app-placeholder=\"Type Text\"><span class=\"mbrib-arrow-next mbr-iconfont mbr-iconfont-btn\"></span>pimienta negra</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content8-4q",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
