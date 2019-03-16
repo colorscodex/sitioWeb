@@ -53,7 +53,7 @@
   "pages": {
     "especias.html": {
       "settings": {
-        "meta_descr": "Breve presentación de las especias e hierbas aromáticas\nUna ruta alfabética  para las especias que voy incirporando a mis platos",
+        "meta_descr": "Breve presentación de las especias e hierbas aromáticas\nUna ruta alfabética  para las especias que voy incirporando a mis platos.",
         "title": "Especias",
         "order": 7
       },
@@ -1831,7 +1831,7 @@
     },
     "acerca-de-la-autora.html": {
       "settings": {
-        "meta_descr": "Breve descripción de que es lo que me llevó a construir COLORSCODEX.\n\nUna breve reseña de mi CV",
+        "meta_descr": "Breve descripción de que es lo que me llevó a construir COLORSCODEX. Con una breve reseña de mi CV, a través del  link a mi Portafolio.",
         "title": "acerca de la autora",
         "order": 17
       },
@@ -2380,7 +2380,7 @@
       "settings": {
         "main": true,
         "title": "colorscodex",
-        "meta_descr": "Una página para ayudar a enterder, de una forma sencilla, el objetivo del blog de COLORSCODEX.\n\nA partir de esta página se puede promover otros proyectos como el libro, conferencias, exposiciones.",
+        "meta_descr": "Una página para ayudar a enterder, de una forma sencilla, el objetivo del blog de COLORSCODEX. A partir de esta página se puede promover otros proyectos como el libro, conferencias, exposiciones.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -5596,7 +5596,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary-outline\" href=\"inicio.html#toggle2-6z\" data-app-placeholder=\"Type Text\"><span class=\"mbrib-arrow-next mbr-iconfont mbr-iconfont-btn\"></span>cerrar</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-danger-outline\" href=\"inicio.html#content4-6n\" data-app-placeholder=\"Type Text\"><span class=\"mbrib-arrow-next mbr-iconfont mbr-iconfont-btn\"></span>volver</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content8-2m",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -6720,7 +6720,7 @@
     },
     "opiniones.html": {
       "settings": {
-        "meta_descr": "Comentarios sobre la página, sobre COLORSCODEX, sobre las recetas...",
+        "meta_descr": "Comentarios sobre la página, sobre COLORSCODEX, sobre las recetas...Porque tu opinión es importante.",
         "title": "opiniones",
         "order": 4
       },
@@ -7252,7 +7252,7 @@
     },
     "opinione.html": {
       "settings": {
-        "meta_descr": "Comentarios sobre la página, sobre COLORSCODEX, sobre las recetas...",
+        "meta_descr": "Comentarios sobre la página, sobre COLORSCODEX, sobre las recetas...Porque tu opinión es importante.",
         "title": "opiniones, medio de la página",
         "order": 5
       },
@@ -8412,7 +8412,7 @@
     },
     "especias-pimienta-negr.html": {
       "settings": {
-        "meta_descr": "Receta de acelgas (previamente cocidas y añadidas al salteado de los champiñones una vez que estos estén hechos) con champiñones salteados con cebolla en aceite de oliva y un toque de pi,ienta negra",
+        "meta_descr": "Receta de acelgas (previamente cocidas y añadidas al salteado de los champiñones una vez que estos estén hechos) con champiñones salteados con cebolla en aceite de oliva y un toque de pi,ienta negra.",
         "title": "Pimienta negra",
         "order": 1
       },
@@ -9042,7 +9042,7 @@
     },
     "especias-pimienta-negra.html": {
       "settings": {
-        "meta_descr": "Receta de acelgas (previamente cocidas y añadidas al salteado de los champiñones una vez que estos estén hechos) con champiñones salteados con cebolla en aceite de oliva y un toque de pi,ienta negra",
+        "meta_descr": "Receta de acelgas (previamente cocidas y añadidas al salteado de los champiñones una vez que estos estén hechos) con champiñones salteados con cebolla en aceite de oliva y un toque de pi,ienta negra-",
         "title": "Pimienta negra, medio",
         "order": 3
       },
@@ -9672,7 +9672,7 @@
     },
     "especias-pimienta-neg.html": {
       "settings": {
-        "meta_descr": "Receta de acelgas (previamente cocidas y añadidas al salteado de los champiñones una vez que estos estén hechos) con champiñones salteados con cebolla en aceite de oliva y un toque de pi,ienta negra",
+        "meta_descr": "Receta de acelgas (previamente cocidas y añadidas al salteado de los champiñones una vez que estos estén hechos) con champiñones salteados con cebolla en aceite de oliva y un toque de pi,ienta negra..",
         "title": "Pimienta negra, final",
         "order": 2
       },
@@ -10302,7 +10302,7 @@
     },
     "especia.html": {
       "settings": {
-        "meta_descr": "Breve presentación de las especias e hierbas aromáticas\nUna ruta alfabética  para las especias que voy incirporando a mis platos",
+        "meta_descr": "Breve presentación de las especias e hierbas aromáticas\nUna ruta alfabética  para las especias que voy incirporando a mis platos.",
         "title": "Especias, pie de página",
         "order": 8
       },
