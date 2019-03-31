@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "www.colorscodex.com",
-    "currentPage": "agricultura_orgánica.html",
+    "currentPage": "inicio.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -40,7 +40,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
     "siteFonts": [],
-    "uniqCompNum": 354,
+    "uniqCompNum": 342,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -13344,11 +13344,11 @@
           "_name": "image1",
           "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"8\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"20\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg && fullWidth==false\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/the-organic-logo-300x200.jpg\" width=\"1400\" alt=\"Imagen del logo para los priductos de agricultura orgánica.\" title=\"Imagen del logo para los priductos de agricultura orgánica.\">\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                    Create awesome websites!\n                </div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
           "_cid": "rmiOA9tkKT",
+          "_anchor": "image1-9q",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "image1-9q"
+          "_params": {}
         },
         {
           "alias": false,
@@ -13363,11 +13363,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>La Agricultura Ecológica es un sistema de producción agraria y ganadera que prescinde de la utilización de sustancias químicas de síntesis, como pesticidas, fertilizantes y aditivos, con el objetivo de obtener alimentos naturales y con todas sus propiedades nutritivas y, a la vez, minimizar los efectos negativos sobre el Medio Ambiente.</p><p></p><div>Ecológico = Biológico = Orgánico</div><div><br></div><div>Para reconocer un alimento como ecológico hay que recordar que los términos “ecológico”, “eco”, “biológico”, “Bio” y “órgánico” están reservados en exclusiva a los alimentos procedentes de la agricultura ecológica. En el etiquetado de estos productos debe aparecer el logotipo identificativo. (1)(2)</div><p></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rmiNCyETxh",
+          "_anchor": "content1-9n",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-9n"
+          "_params": {}
         },
         {
           "alias": false,
@@ -13414,11 +13414,11 @@
           "_name": "content6",
           "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"5\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"90\">\n        <input type=\"checkbox\" title=\"Text On Right/Left\" name=\"reverseContent\">  \n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <a href=\"http://www.alimentacion.es/imagenes/es/af_cartel480x680_eco_esp01_tcm8-437850.pdf\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/alimentos-de-espana-ecologidos-436x615.png\" alt=\"Imagen del cartel publicitario para los alimentos ecológicos de España\" title=\"Cartel publicitario para los alimentos ecológicos de España\"></a>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><br><br><br><br><br>España ocupa el primer lugar en superficie de agricultura ecológica de la UE y está entre los cinco primeros del mundo. (3)(4)</p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rmiZ2M2wjr",
+          "_anchor": "content6-9t",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content6-9t"
+          "_params": {}
         },
         {
           "alias": false,
@@ -13433,11 +13433,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Referencias a enlaces externos</b></p><p>(1) Agricultura ecológica ⎮ <a href=\"http://www.alimentacion.es/es/conoce_lo_que_comes/agricultura_ecologica/\" target=\"_blank\">DEFINICIÓN</a></p><p>(2) Legislación ⎮<a href=\"https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32007R0834&from=ES\"> REGLAMENTO (CE) NO 834/2007 DEL CONSEJO&nbsp;</a><span style=\"font-size: 1.2rem;\"><a href=\"https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32007R0834&from=ES\">de 28 de junio de 2007</a></span></p><p><span style=\"font-size: 1.2rem;\">(3) ALIMENTOSDESPAÑA ⎮<a href=\"http://www.alimentacion.es/imagenes/es/MAPAMA-BIOFACH_2018-TRIPTICO_EXT-CAST-140x210-01_NIPO%20EN%20LINEA_tcm8-442270.PDF\" target=\"_blank\"> FOLLETO ALIMENTOS ECOLÓGICOS DE ESPAÑA</a></span></p><p><span style=\"font-size: 1.2rem;\">(4) Datos estadísticos de producción ecológica ⎮ <a href=\"https://www.mapa.gob.es/es/alimentacion/temas/produccion-ecologica/\" target=\"_blank\">MINISTERIO DE AGRICULTURA ESPAÑA</a></span></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rmiNEGqcDY",
+          "_anchor": "content1-9o",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-9o"
+          "_params": {}
         },
         {
           "alias": false,
@@ -13449,11 +13449,11 @@
           "_name": "content8",
           "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"5\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-danger-outline\" href=\"inicio.html\" data-app-placeholder=\"Type Text\"><span class=\"mbrib-arrow-next mbr-iconfont mbr-iconfont-btn\"></span>cerrar</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rmiNuhl1u6",
+          "_anchor": "content8-9l",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content8-9l"
+          "_params": {}
         },
         {
           "_styles": {
@@ -13901,11 +13901,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "rhT1RyhO26",
+          "_anchor": "menu1-9i",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {},
-          "_anchor": "menu1-9i"
+          "_params": {}
         },
         {
           "_styles": {
@@ -13923,11 +13923,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "rkvmX6IE3w",
+          "_anchor": "footer6-9j",
           "_protectedParams": [],
           "_global": true,
           "_once": true,
-          "_params": {},
-          "_anchor": "footer6-9j"
+          "_params": {}
         }
       ]
     }
