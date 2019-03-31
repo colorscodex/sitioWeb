@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "www.colorscodex.com",
-    "currentPage": "inicio.html",
+    "currentPage": "agricultura_orgánica.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -13305,7 +13305,7 @@
     },
     "agricultura_orgánica.html": {
       "settings": {
-        "meta_descr": "Definición y reglamentos de la unión Europea.",
+        "meta_descr": "Definición y reglamentos de la Unión Europea.",
         "title": "Agricultira orgánica",
         "order": 1
       },
@@ -13431,7 +13431,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Referencias a enlaces externos</b></p><p>(1) Agricultura ecológica ⎮ <a href=\"http://www.alimentacion.es/es/conoce_lo_que_comes/agricultura_ecologica/\" target=\"_blank\">DEFINICIÓN</a></p><p>(2) Legislación ⎮<a href=\"https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32007R0834&from=ES\"> REGLAMENTO (CE) NO 834/2007 DEL CONSEJO&nbsp;</a><span style=\"font-size: 1.2rem;\"><a href=\"https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32007R0834&from=ES\">de 28 de junio de 2007</a></span></p><p><span style=\"font-size: 1.2rem;\">(3) ALIMENTOSDESPAÑA ⎮<a href=\"http://www.alimentacion.es/imagenes/es/MAPAMA-BIOFACH_2018-TRIPTICO_EXT-CAST-140x210-01_NIPO%20EN%20LINEA_tcm8-442270.PDF\" target=\"_blank\"> FOLLETO ALIMENTOS ECOLÓGICOS DE ESPAÑA</a></span></p><p><span style=\"font-size: 1.2rem;\">(4) Datos estadísticos de producción ecológica ⎮ <a href=\"https://www.mapa.gob.es/es/alimentacion/temas/produccion-ecologica/\" target=\"_blank\">MINISTERIO DE AGRICULTURA ESPAÑA</a></span></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Referencias a enlaces externos</b></p><p>(1) Agricultura ecológica ⎮ <a href=\"http://www.alimentacion.es/es/conoce_lo_que_comes/agricultura_ecologica/\" target=\"_blank\">DEFINICIÓN</a></p><p>(2) Legislación ⎮<a href=\"https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32007R0834&from=ES\" target=\"_blank\"> REGLAMENTO (CE) NO 834/2007 DEL CONSEJO&nbsp;</a><span style=\"font-size: 1.2rem;\"><a href=\"https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32007R0834&from=ES\" target=\"_blank\">de 28 de junio de 2007</a></span></p><p><span style=\"font-size: 1.2rem;\">(3) ALIMENTOSDESPAÑA ⎮<a href=\"http://www.alimentacion.es/imagenes/es/MAPAMA-BIOFACH_2018-TRIPTICO_EXT-CAST-140x210-01_NIPO%20EN%20LINEA_tcm8-442270.PDF\" target=\"_blank\"> FOLLETO ALIMENTOS ECOLÓGICOS DE ESPAÑA</a></span></p><p><span style=\"font-size: 1.2rem;\">(4) Datos estadísticos de producción ecológica ⎮ <a href=\"https://www.mapa.gob.es/es/alimentacion/temas/produccion-ecologica/\" target=\"_blank\">MINISTERIO DE AGRICULTURA ESPAÑA</a></span></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rmiNEGqcDY",
           "_anchor": "content1-9o",
           "_protectedParams": [],
