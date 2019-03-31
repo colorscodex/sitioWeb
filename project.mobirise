@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "www.colorscodex.com",
-    "currentPage": "agricultura_orgánica.html",
+    "currentPage": "inicio.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -53,7 +53,7 @@
   "pages": {
     "especias.html": {
       "settings": {
-        "meta_descr": "Breve presentación de las especias e hierbas aromáticas\nUna ruta alfabética  para las especias que voy incirporando a mis platos.",
+        "meta_descr": "Breve presentación de las especias e hierbas aromáticas, una ruta alfabética  de las especias que voy incorporando a mis platos.",
         "title": "Especias",
         "order": 10
       },
@@ -1999,7 +1999,7 @@
     },
     "acerca-de-la-autora.html": {
       "settings": {
-        "meta_descr": "Breve descripción de que es lo que me llevó a construir COLORSCODEX. Con una breve reseña de mi CV, a través del  link a mi Portafolio.",
+        "meta_descr": "Breve descripción de lo que me llevó a construir COLORSCODEX. Con una breve reseña de mi CV, a través del  link a mi Portafolio.",
         "title": "acerca de la autora",
         "order": 18
       },
@@ -2581,8 +2581,8 @@
     "inicio.html": {
       "settings": {
         "main": true,
-        "title": "colorscodex",
-        "meta_descr": "Una página para ayudar a enterder, de una forma sencilla, el objetivo del blog de COLORSCODEX. A partir de esta página se puede promover otros proyectos como el libro, conferencias, exposiciones.",
+        "title": "COLORSCODEX",
+        "meta_descr": "A través de esta página explico, de una forma sencilla, el objetivo del blog de COLORSCODEX,: una dieta rica en vegetales es una  dieta rica en colores y la importancia de las frutas de temporada,.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -4012,7 +4012,7 @@
     },
     "pimentón.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "El color rojo de la cocina española.",
         "title": "Pimentón",
         "order": 12
       },
@@ -4700,7 +4700,7 @@
     "acerca-de-colorscode.html": {
       "settings": {
         "meta_descr": "Una breve historia de cómo surgió el Proyecto de COLORSCODEX, una cocina Vegan con Sabor Mediterráneo.",
-        "title": "acerca de COLORSCODEX, pie de página",
+        "title": "acerca de COLORSCODEX",
         "order": 17
       },
       "components": [
@@ -7115,7 +7115,7 @@
     },
     "opiniones.html": {
       "settings": {
-        "meta_descr": "Comentarios sobre la página, sobre COLORSCODEX, sobre las recetas...Porque tu opinión es importante.",
+        "meta_descr": "Comentarios realizados sobre este sitio web, COLORSCODEX, sobre las recetas...Porque tu opinión es importante.",
         "title": "opiniones",
         "order": 7
       },
@@ -7681,8 +7681,8 @@
     },
     "opinione.html": {
       "settings": {
-        "meta_descr": "Comentarios sobre la página, sobre COLORSCODEX, sobre las recetas...Porque tu opinión es importante.",
-        "title": "opiniones, medio de la página",
+        "meta_descr": "Comentarios sobre este sitio web, COLORSCODEX, sobre las recetas...Porque tu opinión es importante.",
+        "title": "opiniones",
         "order": 8
       },
       "components": [
@@ -8248,7 +8248,7 @@
     "pimentó.html": {
       "settings": {
         "meta_descr": "",
-        "title": "Pimentón, intermedio",
+        "title": "Pimentón",
         "order": 14
       },
       "components": [
@@ -8930,7 +8930,7 @@
     },
     "especias-pimienta-negr.html": {
       "settings": {
-        "meta_descr": "Receta de acelgas (previamente cocidas y añadidas al salteado de los champiñones una vez que estos estén hechos) con champiñones salteados con cebolla en aceite de oliva y un toque de pi,ienta negra.",
+        "meta_descr": "Receta de acelgas (previamente cocidas y añadidas al salteado de los champiñones una vez que estos estén hechos) con champiñones salteados con cebolla en aceite de oliva y un toque de pimienta negra.",
         "title": "Pimienta negra",
         "order": 4
       },
@@ -9594,8 +9594,8 @@
     },
     "especias-pimienta-negra.html": {
       "settings": {
-        "meta_descr": "Receta de acelgas (previamente cocidas y añadidas al salteado de los champiñones una vez que estos estén hechos) con champiñones salteados con cebolla en aceite de oliva y un toque de pi,ienta negra-",
-        "title": "Pimienta negra, medio",
+        "meta_descr": "",
+        "title": "Pimienta negra",
         "order": 6
       },
       "components": [
@@ -10258,8 +10258,8 @@
     },
     "especias-pimienta-neg.html": {
       "settings": {
-        "meta_descr": "Receta de acelgas (previamente cocidas y añadidas al salteado de los champiñones una vez que estos estén hechos) con champiñones salteados con cebolla en aceite de oliva y un toque de pi,ienta negra..",
-        "title": "Pimienta negra, final",
+        "meta_descr": "Receta de acelgas (previamente cocidas y añadidas al salteado de los champiñones una vez que estos estén hechos) con champiñones salteados con cebolla en aceite de oliva y un toque de pimienta negra..",
+        "title": "Pimienta negra",
         "order": 5
       },
       "components": [
@@ -10922,8 +10922,8 @@
     },
     "especia.html": {
       "settings": {
-        "meta_descr": "Breve presentación de las especias e hierbas aromáticas\nUna ruta alfabética  para las especias que voy incirporando a mis platos.",
-        "title": "Especias, pie de página",
+        "meta_descr": "Breve presentación de las especias e hierbas aromáticas, una ruta alfabética  de las especias que voy incorporando a mis platos.",
+        "title": "Especias",
         "order": 11
       },
       "components": [
@@ -11546,8 +11546,8 @@
     },
     "pimenton.html": {
       "settings": {
-        "meta_descr": "",
-        "title": "Pimentón, pie de página",
+        "meta_descr": "El color rojo de la cocina española.",
+        "title": "Pimentón",
         "order": 13
       },
       "components": [
@@ -12235,7 +12235,7 @@
     },
     "medio-ambiente.html": {
       "settings": {
-        "meta_descr": "Esta página es un link para una página en facebook, environmental area (eArea21) donde presento proyectos ambientales, ideas y soluciones de  perosnas que trabajan en este área.",
+        "meta_descr": "Esta página es un link para una página en facebook, environmental area (eArea21) donde presento proyectos ambientales, ideas y soluciones de  personas que trabajan en este área.",
         "title": "Medio Ambiente",
         "order": 3
       },
@@ -12704,7 +12704,7 @@
     "Denominación_de_origen_protegida.html": {
       "settings": {
         "meta_descr": "Definiciones de:\n- DOP, denominación de origen protegida.\n- IGP, indicaciones geográficas protegidas.\n",
-        "title": "Denominación de origen",
+        "title": "Denominación de origen ",
         "order": 2
       },
       "components": [
@@ -13305,8 +13305,8 @@
     },
     "agricultura_orgánica.html": {
       "settings": {
-        "meta_descr": "Definición y reglamentos de la Unión Europea.",
-        "title": "Agricultira orgánica",
+        "meta_descr": "Definición y reglamentos de la Unión Europea.\n\nEcológico = Biológico = Orgánico",
+        "title": "Agricultura orgánica",
         "order": 1
       },
       "components": [
