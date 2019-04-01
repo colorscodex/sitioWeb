@@ -678,7 +678,7 @@
     "acerca-de-colorscodex.html": {
       "settings": {
         "meta_descr": "Una breve historia de cómo surgió el Proyecto de COLORSCODEX, una cocina Vegan con Sabor Mediterráneo.",
-        "title": "acerca de COLORSCODEX",
+        "title": "Acerca de COLORSCODEX",
         "order": 16
       },
       "components": [
@@ -2000,7 +2000,7 @@
     "acerca-de-la-autora.html": {
       "settings": {
         "meta_descr": "Breve descripción de lo que me llevó a construir COLORSCODEX. Con una breve reseña de mi CV, a través del  link a mi Portafolio.",
-        "title": "acerca de la autora",
+        "title": "Acerca de la autora",
         "order": 18
       },
       "components": [
@@ -4700,7 +4700,7 @@
     "acerca-de-colorscode.html": {
       "settings": {
         "meta_descr": "Una breve historia de cómo surgió el Proyecto de COLORSCODEX, una cocina Vegan con Sabor Mediterráneo.",
-        "title": "acerca de COLORSCODEX",
+        "title": "Acerca de COLORSCODEX",
         "order": 17
       },
       "components": [
@@ -7115,8 +7115,8 @@
     },
     "opiniones.html": {
       "settings": {
-        "meta_descr": "Comentarios realizados sobre este sitio web, COLORSCODEX, sobre las recetas...Porque tu opinión es importante.",
-        "title": "opiniones",
+        "meta_descr": "Comentarios realizados sobre este sitio web, COLORSCODEX, sobre las recetas... Porque tu opinión es importante.",
+        "title": "Opiniones",
         "order": 7
       },
       "components": [
@@ -7681,8 +7681,8 @@
     },
     "opinione.html": {
       "settings": {
-        "meta_descr": "Comentarios sobre este sitio web, COLORSCODEX, sobre las recetas...Porque tu opinión es importante.",
-        "title": "opiniones",
+        "meta_descr": "Comentarios sobre este sitio web, COLORSCODEX, sobre las recetas... Porque tu opinión es importante.",
+        "title": "Opiniones",
         "order": 8
       },
       "components": [
@@ -12703,7 +12703,7 @@
     },
     "Denominación_de_origen_protegida.html": {
       "settings": {
-        "meta_descr": "Definiciones de:\n- DOP, denominación de origen protegida.\n- IGP, indicaciones geográficas protegidas.\n",
+        "meta_descr": "Definiciones de:\n- DOP, Denominación de origen protegida.\n- IGP, Indicaciones geográficas protegidas.\n",
         "title": "Denominación de origen ",
         "order": 2
       },
