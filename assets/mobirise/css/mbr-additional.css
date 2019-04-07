@@ -14788,8 +14788,16 @@ body {
   padding-bottom: 0px;
   background-color: #3a3232;
 }
-.cid-rmXbSYFxn3 {
+.cid-rmXeVEtnyq {
   padding-top: 120px;
+  padding-bottom: 60px;
+  background-color: #efefef;
+}
+.cid-rmXeVEtnyq .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rmXbSYFxn3 {
+  padding-top: 60px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
@@ -14799,7 +14807,7 @@ body {
 .cid-rmX7VT0OdG {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-color: #c1c1c1;
 }
 .cid-rmX7VT0OdG h4 {
   font-weight: 500;
