@@ -3276,13 +3276,19 @@ body {
   padding-bottom: 0px;
   background-color: #3a3232;
 }
-.cid-rn8NyIy3tY {
-  padding-top: 120px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
+.cid-rnaogTvUY4 {
+  background-color: #800000;
 }
-.cid-rn8NyIy3tY .mbr-text {
-  color: #767676;
+.cid-rnaogTvUY4 .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-rnaogTvUY4 .media-container-column {
+  background-color: #4f4943;
+}
+@media (max-width: 767px) {
+  .cid-rnaogTvUY4 .media-container-column {
+    padding: 1rem !important;
+  }
 }
 .cid-rhwJ19jMOa .navbar {
   padding: .5rem 0;
