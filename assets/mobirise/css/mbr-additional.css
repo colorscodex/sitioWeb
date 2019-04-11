@@ -16811,13 +16811,114 @@ body {
 .cid-rnh2uAaCP0 .mbr-section-subtitle {
   color: #767676;
 }
-.cid-rnh3hfIGZk {
+.cid-rnmYJ3BEma {
   padding-top: 90px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rnmYJ3BEma .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rnmZDGhQHJ {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rnmZDGhQHJ .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rnmZDGhQHJ .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-rnmZDGhQHJ .mbr-text {
+  color: #767676;
+}
+.cid-rnmZDGhQHJ .mbr-text B {
+  color: #767676;
+}
+.cid-rnn3pZa5Oz {
+  padding-top: 30px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rnn3oQTCCC {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rnn3oQTCCC .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rnn3oQTCCC .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rnn3oQTCCC .media-container-row {
+    flex-wrap: wrap-reverse;
+    -webkit-flex-wrap: wrap-reverse;
+  }
+  .cid-rnn3oQTCCC .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-rnn3oQTCCC .mbr-text {
+  color: #767676;
+  text-align: left;
+}
+.cid-rnn3qTzLIk {
+  padding-top: 30px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-rnh3hfIGZk .mbr-section-subtitle {
+.cid-rnnfEHacIo {
+  background-image: url("../../../assets/images/judias-verdes-y-tomate-1000x1000.jpg");
+}
+.cid-rnngl11CME {
+  padding-top: 15px;
+  padding-bottom: 75px;
+  background-color: #efefef;
+}
+.cid-rnngl11CME .card-box {
+  padding: 0 2rem;
+}
+.cid-rnngl11CME .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-rnngl11CME .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-rnngl11CME h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-rnngl11CME p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-rnngl11CME .mbr-text {
   color: #767676;
+}
+.cid-rnngl11CME .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #ffffff;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rnngl11CME .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
 }
 .cid-rnf3YvMQt6 {
   padding-top: 75px;
