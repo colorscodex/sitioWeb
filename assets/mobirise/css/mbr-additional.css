@@ -21247,6 +21247,20 @@ body {
   padding-bottom: 0px;
   background-color: #3a3232;
 }
+.cid-ru7wzVOOm1 {
+  background-image: url("../../../assets/images/mbr-2-1920x1280.jpg");
+}
+.cid-ru7wzVOOm1 .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-ru7wzVOOm1 .media-container-column {
+  background-color: #4f4943;
+}
+@media (max-width: 767px) {
+  .cid-ru7wzVOOm1 .media-container-column {
+    padding: 1rem !important;
+  }
+}
 .cid-ru2VdQaKbW {
   background-color: #363333;
   background: linear-gradient(45deg, #363333, #232323);
