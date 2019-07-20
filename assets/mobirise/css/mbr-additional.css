@@ -14252,7 +14252,7 @@ body {
   letter-spacing: .2rem;
 }
 .cid-rodNDcHKTQ .media-container-column {
-  background-color: #5b686b;
+  background-color: #363333;
 }
 @media (max-width: 767px) {
   .cid-rodNDcHKTQ .media-container-column {
@@ -14307,8 +14307,8 @@ body {
 .cid-rtWkDd59bY {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #1b2506;
-  background: linear-gradient(45deg, #1b2506, #ffffff);
+  background-color: #020310;
+  background: linear-gradient(45deg, #020310, #ffffff);
 }
 .cid-rtWkDd59bY .media-container-row {
   flex-direction: row-reverse;
@@ -14991,7 +14991,7 @@ body {
   letter-spacing: .2rem;
 }
 .cid-rodPi2Sp0l .media-container-column {
-  background-color: #5b686b;
+  background-color: #3a3232;
 }
 @media (max-width: 767px) {
   .cid-rodPi2Sp0l .media-container-column {
@@ -22404,7 +22404,7 @@ body {
   letter-spacing: .2rem;
 }
 .cid-ru9JyE7mH1 .media-container-column {
-  background-color: #073b4c;
+  background-color: #363333;
 }
 @media (max-width: 767px) {
   .cid-ru9JyE7mH1 .media-container-column {
@@ -22487,8 +22487,8 @@ body {
   }
 }
 .cid-ru9i72wxM1 {
-  background-color: #073b4c;
-  background: linear-gradient(45deg, #073b4c, #0f7699);
+  background-color: #363333;
+  background: linear-gradient(45deg, #363333, #b1a374);
 }
 .cid-ru9i72wxM1 .media-container-row {
   flex-direction: row-reverse;
@@ -22508,6 +22508,24 @@ body {
 }
 @media (max-width: 767px) {
   .cid-ru9i72wxM1 .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rwN8YA5bwU {
+  background-image: url("../../../assets/images/mbr-1920x1275.jpg");
+}
+@media (min-width: 992px) {
+  .cid-rwN8YA5bwU .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rwN8YA5bwU .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rwN8YA5bwU .mbr-text {
     text-align: center;
   }
 }
@@ -22911,53 +22929,27 @@ body {
 .cid-rhT25sNP05 .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-ru9ycVZXuY {
-  background-color: #1b2506;
-  background: linear-gradient(45deg, #1b2506, #ffffff);
+.cid-rwNa8e7nOe {
+  background-image: url("../../../assets/images/limon-zanahoria-chia-arandanos-1000x1000.jpg");
 }
-.cid-ru9ycVZXuY .media-container-row {
+.cid-rwNa8e7nOe .media-container-row {
   flex-direction: row-reverse;
   -webkit-flex-direction: row-reverse;
 }
 @media (min-width: 992px) {
-  .cid-ru9ycVZXuY .mbr-figure {
+  .cid-rwNa8e7nOe .mbr-figure {
     padding-right: 4rem;
     padding-right: 0;
     padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-ru9ycVZXuY .mbr-figure {
+  .cid-rwNa8e7nOe .mbr-figure {
     padding-bottom: 3rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-ru9ycVZXuY .mbr-text {
-    text-align: center;
-  }
-}
-.cid-rvG47om1Dq {
-  background-color: #073b4c;
-  background: linear-gradient(45deg, #073b4c, #3a3232);
-}
-.cid-rvG47om1Dq .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
-@media (min-width: 992px) {
-  .cid-rvG47om1Dq .mbr-figure {
-    padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rvG47om1Dq .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rvG47om1Dq .mbr-text {
+  .cid-rwNa8e7nOe .mbr-text {
     text-align: center;
   }
 }
@@ -22983,6 +22975,31 @@ body {
 }
 @media (max-width: 767px) {
   .cid-ru9j7YJcPc .mbr-text {
+    text-align: center;
+  }
+}
+.cid-ru9ycVZXuY {
+  background-color: #02041b;
+  background: linear-gradient(45deg, #02041b, #ffffff);
+}
+.cid-ru9ycVZXuY .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-ru9ycVZXuY .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-ru9ycVZXuY .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-ru9ycVZXuY .mbr-text {
     text-align: center;
   }
 }
@@ -25702,6 +25719,11 @@ body {
   .cid-rwAxsw45gt .mbr-text {
     text-align: center;
   }
+}
+.cid-rwAyWaBv4U {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
 .cid-rjMfHwaGHn {
   padding-top: 0px;
