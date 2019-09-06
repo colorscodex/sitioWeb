@@ -22495,14 +22495,18 @@ body {
   }
 }
 .cid-rBbewQpZN5 {
-  padding-top: 120px;
-  padding-bottom: 90px;
   background-color: #363333;
   background: linear-gradient(45deg, #363333, #3a3232);
+}
+.cid-rBbewQpZN5 .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
 }
 @media (min-width: 992px) {
   .cid-rBbewQpZN5 .mbr-figure {
     padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
