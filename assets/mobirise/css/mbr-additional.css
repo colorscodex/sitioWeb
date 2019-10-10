@@ -7596,17 +7596,24 @@ body {
 .cid-rn4pWY4qof .mbr-section-subtitle {
   color: #767676;
 }
-.cid-rn4qhcLKDI {
-  padding-top: 120px;
-  padding-bottom: 75px;
-  background-color: #ffffff;
+.cid-rEqojPw7pm {
+  background-image: url("../../../assets/images/luces-500x375.jpg");
 }
-.cid-rn4qhcLKDI .mbr-section-subtitle {
+.cid-rEqojPw7pm .mbr-text,
+.cid-rEqojPw7pm .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-rEqoZc1DhT {
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-color: #efefef;
+}
+.cid-rEqoZc1DhT .mbr-section-subtitle {
   color: #767676;
 }
 .cid-rn4mHMLoSv {
   padding-top: 15px;
-  padding-bottom: 15px;
+  padding-bottom: 45px;
   background-color: #232323;
 }
 .cid-rn4mHMLoSv .testimonial-text {
